@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yifan 👋
 
-<!--
-**yifancong/yifancong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Infrastructure · Build Performance · Developer Tooling · AI Agents**
 
-Here are some ideas to get you started:
+Building tools that make modern frontend systems faster, more observable, and easier to maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🛠️ I work on build analysis and developer tooling around the [Rspack](https://github.com/web-infra-dev/rspack) ecosystem, especially [Rsdoctor](https://github.com/web-infra-dev/rsdoctor).
+- 🦀 I'm interested in compiler and bundler internals, module graphs, tree shaking, Rust, and NAPI-RS.
+- 🤖 I'm exploring practical AI engineering through MCP, reusable agent skills, evaluation harnesses, and multi-agent systems.
+- 📍 Based in Hangzhou, China.
+
+## Open source
+
+- **[Rsdoctor](https://github.com/web-infra-dev/rsdoctor)** — contributing to build analysis, performance diagnostics, core architecture, documentation, and releases.
+- **[Rspack](https://github.com/web-infra-dev/rspack)** — improving the data and integrations that connect a Rust-based bundler with build observability tooling.
+- **[Rspack ecosystem](https://github.com/web-infra-dev)** — working across build tools, CI workflows, bundle analysis, and developer experience.
+
+## Toolbox
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Rust · Python |
+| **Build & runtime** | Rspack · Rsbuild · webpack · Node.js · NAPI-RS · pnpm |
+| **Performance** | Bundle analysis · Module graphs · Tree shaking · Source maps · Build profiling |
+| **AI engineering** | MCP · Agent Skills · Evaluation · LangGraph · Multi-Agent Systems |
+| **Delivery** | GitHub Actions · CI/CD · Testing · Release workflows |
+
+## Languages
+
+[![Languages across Yifan's public GitHub repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=yifancong&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=8&card_width=600)](https://github.com/yifancong?tab=repositories)
+
+_Based on code in public GitHub repositories._
+
+---
+
+_Build systems should be fast, observable, and understandable._
