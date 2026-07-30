@@ -7,7 +7,7 @@ Building tools that make modern frontend systems faster, more observable, and ea
 ## About me
 
 - 🛠️ I work on build analysis and developer tooling around the [Rspack](https://github.com/web-infra-dev/rspack) ecosystem, especially [Rsdoctor](https://github.com/web-infra-dev/rsdoctor).
-- 🦀 I'm interested in compiler and bundler internals, module graphs, tree shaking, Rust, and NAPI-RS.
+- 🦀 I'm interested in compiler and bundler internals.
 - 🤖 I'm exploring practical AI engineering through MCP, reusable agent skills, evaluation harnesses, and multi-agent systems.
 - 📍 Based in Hangzhou, China.
 
@@ -34,5 +34,3 @@ Building tools that make modern frontend systems faster, more observable, and ea
 _Based on code in public GitHub repositories._
 
 ---
-
-_Build systems should be fast, observable, and understandable._
