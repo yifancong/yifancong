@@ -27,10 +27,3 @@ Building tools that make modern frontend systems faster, more observable, and ea
 | **AI engineering** | MCP · Agent Skills · Evaluation · LangGraph · Multi-Agent Systems |
 | **Delivery** | GitHub Actions · CI/CD · Testing · Release workflows |
 
-## Languages
-
-[![Languages across Yifan's public GitHub repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=yifancong&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=8&card_width=600)](https://github.com/yifancong?tab=repositories)
-
-_Based on code in public GitHub repositories._
-
----
