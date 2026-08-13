@@ -22,7 +22,7 @@ Building tools that make modern frontend systems faster, more observable, and ea
 | Area | Technologies |
 | --- | --- |
 | **Languages** | TypeScript · JavaScript · Rust · Python |
-| **Build & runtime** | Rspack · Rsbuild · webpack · Node.js · NAPI-RS · pnpm |
+| **Build & runtime** | Rspack · Rsbuild · webpack · Node.js |
 | **Performance** | Bundle analysis · Module graphs · Tree shaking · Source maps · Build profiling |
 | **AI engineering** | MCP · Agent Skills · Multi-Agent Systems |
 | **Delivery** | GitHub Actions · CI/CD · Testing · Release workflows |
